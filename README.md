@@ -1,1 +1,1 @@
-# equipment-checklist
+# equipment_checklist
